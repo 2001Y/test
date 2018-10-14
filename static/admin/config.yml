@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: 2001Y/test
+  name: git-gateway
   branch: master
  
 publish_mode: editorial_workflow
